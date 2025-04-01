@@ -1,5 +1,5 @@
-import { createWalletClient, http, parseAbi, encodeFunctionData, decodeFunctionData } from 'viem'
-import { privateKeyToAccount, mnemonicToAccount } from 'viem/accounts'
+import { createWalletClient, http, parseAbi, encodeFunctionData } from 'viem'
+import { mnemonicToAccount } from 'viem/accounts'
 import express from 'express'
 import bodyParser from 'body-parser'
 import cors from 'cors'
