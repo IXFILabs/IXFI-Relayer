@@ -14,7 +14,7 @@ First you create .env file and set this variable.
 
 ```env
 ALCHEMY_API_KEY=<YOUR_ALCHEMY_API_KEY>
-RELAYER_PRIVATE_KEY=0x24acE36D6565Fc3A27e2Bb9F2f0Fa164d3F2adf6 // this address is deployed IXFIGateway contract address on crossfi testnet
+RELAYER_PRIVATE_KEY=<YOUR_RELAYER_PRIVATE_KEY> // this address is deployed IXFIGateway contract address on crossfi testnet
 ```
 
 ```sh
